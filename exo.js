@@ -10,3 +10,6 @@ console.log("Pikachu reste un bon pokemon");
 
 console.log("Vous oubliez Pichu");
 
+//2eme Branche (Mysdibule)
+
+console.log("Mysdibule est le meilleur pokemon tout confondu");
